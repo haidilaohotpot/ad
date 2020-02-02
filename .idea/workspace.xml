@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5f503b3-35ce-4238-aee3-523403d20483" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/ad-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/ad-geteway/target/" />
+    <ignored path="$PROJECT_DIR$/ad-service/target/" />
+    <ignored path="$PROJECT_DIR$/ad-service/ad-common/target/" />
+    <ignored path="$PROJECT_DIR$/ad-service/ad-sponser/target/" />
+    <ignored path="$PROJECT_DIR$/ad-service/ad-search/target/" />
+    <ignored path="$PROJECT_DIR$/ad-service/ad-dashboard/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ad-geteway/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/search/impl/SearchImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/controller/SearchController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="497">
+              <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SponsorClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/client/SponsorClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ad-service/ad-dashboard/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="841">
+              <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DashboardApplication.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ad-service/ad-dashboard/src/main/java/com/wonder4work/ad/DashboardApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ad-service/ad-dashboard/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SponsorClientHystrix.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/client/SponsorClientHystrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ISearch.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/search/ISearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>imooc</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>wonder4work</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ad-service/ad-sponser/pom.xml" />
+        <option value="$PROJECT_DIR$/ad-service/ad-search/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/ad-service/ad-sponser/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/client/vo/AdPlanGetRequest.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/client/vo/AdPlan.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/SearchApplication.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/client/SponsorClientHystrix.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/client/SponsorClient.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-search/pom.xml" />
+        <option value="$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/index/IndexAware.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/index/adplan/AdPlanObject.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/index/adplan/AdPlanIndex.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/index/creative/CreativeIndex.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/index/creativeunit/CreativeUnitIndex.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/utils/CommonUtils.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/index/interest/UnitItIndex.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/index/keyword/UnitKeywordIndex.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-common/src/main/java/com/wonder4work/ad/dump/table/AdPlanTable.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-common/src/main/java/com/wonder4work/ad/annotation/Lombok.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-common/src/main/java/com/wonder4work/ad/dump/table/AdUnitTable.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-common/src/main/java/com/wonder4work/ad/dump/table/AdUnitKeyworkTable.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-common/src/main/java/com/wonder4work/ad/dump/table/AdUnitKeywordTable.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-common/src/main/java/com/wonder4work/ad/dump/table/AdUnitItTable.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-common/src/main/java/com/wonder4work/ad/dump/table/AdCreativeTable.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-sponser/src/test/java/com/wonder4work/ad/Application.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-sponser/src/test/java/com/wonder4work/ad/service/AdPlanServiceTest.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-sponser/src/test/java/com/wonder4work/ad/service/DumpDataService.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-common/src/main/java/com/wonder4work/ad/dump/table/AdUnitDistrictTable.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-common/src/main/java/com/wonder4work/ad/dump/DConstant.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/mysql/constant/OpType.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-common/src/main/java/com/wonder4work/ad/dump/table/AdCreativeUnitTable.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/handler/AdLevelDataHandler.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/index/IndexFileLoader.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/search/vo/media/AdSlot.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/search/vo/media/App.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/search/vo/media/Geo.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/search/vo/media/Device.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/search/vo/feature/ItFeature.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/search/vo/SearchResponse.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/search/vo/SearchRequest.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/search/ISearch.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/index/adunit/AdUnitConstants.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/index/adunit/AdUnitObject.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/index/adunit/AdUnitIndex.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/search/impl/SearchImpl.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/index/district/UnitDistrictIndex.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/controller/SearchController.java" />
+        <option value="$PROJECT_DIR$/ad-geteway/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/ad-service/ad-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/ad-service/ad-dashboard/src/main/java/com/wonder4work/ad/DashboardApplication.java" />
+        <option value="$PROJECT_DIR$/ad-service/ad-dashboard/src/main/resources/application.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="userSettingsFile" value="D:\maven\repository\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="882" />
+    <option name="width" value="1299" />
+    <option name="height" value="1404" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="advertisement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="advertisement" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="advertisement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="advertisement" type="462c0819:PsiDirectoryNode" />
+              <item name="ad-geteway" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="advertisement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="advertisement" type="462c0819:PsiDirectoryNode" />
+              <item name="ad-geteway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="advertisement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="advertisement" type="462c0819:PsiDirectoryNode" />
+              <item name="ad-geteway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="advertisement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="advertisement" type="462c0819:PsiDirectoryNode" />
+              <item name="ad-geteway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="advertisement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="advertisement" type="462c0819:PsiDirectoryNode" />
+              <item name="ad-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="advertisement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="advertisement" type="462c0819:PsiDirectoryNode" />
+              <item name="ad-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ad-dashboard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="advertisement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="advertisement" type="462c0819:PsiDirectoryNode" />
+              <item name="ad-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ad-dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="advertisement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="advertisement" type="462c0819:PsiDirectoryNode" />
+              <item name="ad-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ad-dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="advertisement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="advertisement" type="462c0819:PsiDirectoryNode" />
+              <item name="ad-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ad-dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="advertisement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="advertisement" type="462c0819:PsiDirectoryNode" />
+              <item name="ad-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ad-dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea_sources\advertisement\ad-service\ad-dashboard\src\main\resources" />
+      <recent name="D:\idea_sources\advertisement\ad-service\ad-dashboard\src\main\java\com\wonder4work\ad" />
+      <recent name="D:\idea_sources\advertisement\ad-service\ad-search\src\main\java\com\wonder4work\ad" />
+      <recent name="D:\idea_sources\advertisement\ad-service\ad-search\src\main\java\com\wonder4work\ad\search\impl" />
+      <recent name="D:\idea_sources\advertisement\ad-service\ad-search\src\main\java\com\wonder4work\ad\search" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.wonder4work.ad.dump.table" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SearchApplication">
+    <configuration name="EurekaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wonder4work.ad.EurekaApplication" />
+      <module name="adeureka" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wonder4work.ad.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SearchApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wonder4work.ad.SearchApplication" />
+      <module name="adsearch" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wonder4work.ad.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ZuulGatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wonder4work.ad.ZuulGatewayApplication" />
+      <module name="adgeteway" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wonder4work.ad.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="adeureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wonder4work.ad.EurekaApplication" />
+    </configuration>
+    <configuration name="SearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="adsearch" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wonder4work.ad.SearchApplication" />
+    </configuration>
+    <configuration name="SponsorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="adsponser" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wonoder4work.ad.SponsorApplication" />
+    </configuration>
+    <configuration name="ZuulGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="adgeteway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wonder4work.ad.ZuulGatewayApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EurekaApplication" />
+      <item itemvalue="Spring Boot.ZuulGatewayApplication" />
+      <item itemvalue="Spring Boot.SponsorApplication" />
+      <item itemvalue="Spring Boot.SearchApplication" />
+      <item itemvalue="Application.EurekaApplication" />
+      <item itemvalue="Application.ZuulGatewayApplication" />
+      <item itemvalue="Application.SearchApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SearchApplication" />
+        <item itemvalue="Application.ZuulGatewayApplication" />
+        <item itemvalue="Application.EurekaApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\xzc\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5f503b3-35ce-4238-aee3-523403d20483" name="Default" comment="" />
+      <created>1579778456355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579778456355</updated>
+      <workItem from="1579778457838" duration="627000" />
+      <workItem from="1580002155282" duration="11204000" />
+      <workItem from="1580352834222" duration="5049000" />
+      <workItem from="1580438986436" duration="9451000" />
+      <workItem from="1580523834968" duration="16370000" />
+      <workItem from="1580611636108" duration="2093000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="44794000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="588" y="0" width="866" height="936" extended-state="0" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="8" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22604422" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4430693" />
+      <window_info anchor="right" id="Bean Validation" order="4" />
+      <window_info id="Web" order="3" side_tool="true" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32923833" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/index/creative/CreativeObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/index/creativeunit/CreativeUnitObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/index/district/UnitDistrictObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/index/keyword/UnitKeywordIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="981">
+          <caret line="88" column="43" selection-start-line="88" selection-start-column="43" selection-end-line="88" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/utils/CommonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="43" column="14" lean-forward="true" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/index/interest/UnitItObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/index/IndexAware.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/index/DataLevel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-common/src/main/java/com/wonder4work/ad/advice/CommonResponseDataAdvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-common/src/main/java/com/wonder4work/ad/annotation/Lombok.java" />
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-common/src/main/java/com/wonder4work/ad/dump/table/AdPlanTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-common/src/main/java/com/wonder4work/ad/dump/table/AdUnitTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-sponser/src/test/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-sponser/src/test/java/com/wonder4work/ad/service/AdPlanServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-common/src/main/java/com/wonder4work/ad/dump/table/AdUnitItTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-common/src/main/java/com/wonder4work/ad/dump/table/AdUnitKeywordTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-common/src/main/java/com/wonder4work/ad/dump/table/AdCreativeTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-sponser/src/test/java/com/wonder4work/ad/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-common/src/main/java/com/wonder4work/ad/dump/DConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-common/src/main/java/com/wonder4work/ad/dump/table/AdUnitDistrictTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-sponser/src/test/java/com/wonder4work/ad/service/DumpDataService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3837">
+          <caret line="74" column="47" lean-forward="true" selection-start-line="74" selection-start-column="47" selection-end-line="74" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/handler/AdLevelDataHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/index/IndexFileLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-common/src/main/java/com/wonder4work/ad/dump/table/AdCreativeUnitTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/mysql/constant/OpType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/search/vo/media/AdSlot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/search/vo/media/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/search/vo/media/Device.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/search/vo/media/Geo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/search/vo/feature/DistrictFeature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/search/vo/feature/FeatureRelation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/search/vo/feature/ItFeature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/search/vo/feature/KeywordFeature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/search/vo/SearchRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/search/vo/SearchResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/index/DataTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/index/adunit/AdUnitConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/index/adunit/AdUnitIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/index/district/UnitDistrictIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="90" column="38" selection-start-line="90" selection-start-column="38" selection-end-line="90" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/index/interest/UnitItIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="89" column="19" selection-start-line="89" selection-start-column="19" selection-end-line="89" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/index/adunit/AdUnitObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/index/creativeunit/CreativeUnitIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="717">
+          <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-geteway/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/search/ISearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/search/impl/SearchImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/controller/SearchController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/client/SponsorClientHystrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/wonder4work/ad/client/SponsorClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-dashboard/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="841">
+          <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-dashboard/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-service/ad-dashboard/src/main/java/com/wonder4work/ad/DashboardApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20365168" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
